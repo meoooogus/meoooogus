@@ -1,4 +1,10 @@
-## Hi there 👋
+## Introduction
+안녕하세요. 컴퓨터공학과 22211977 김대현입니다.
+
+## Contact
+ E-amil: kdh031230@gmail.com
+ IG: @sug.oe
+
 
 <!--
 **meoooogus/meoooogus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
