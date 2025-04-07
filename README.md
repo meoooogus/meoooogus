@@ -3,6 +3,7 @@
 현재 프로그래밍에 관해 열심히 공부 중입니다.
 
 Hello! I’m Daehyun Kim, currently studying Computer Engineering at Yeungnam University.
+
 I’m passionate about programming and actively working to improve my skills.
 
 ## Contact
