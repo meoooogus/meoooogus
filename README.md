@@ -1,5 +1,5 @@
 ## Contact
- E-amil: kdh031230@gmail.com
+ E-mail: kdh031230@gmail.com
 
 
 <!--
