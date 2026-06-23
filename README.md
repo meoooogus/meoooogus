@@ -1,5 +1,5 @@
 ## Contact
- E-mail: meoooogus@gmail.com
+ email: meoooogus@gmail.com
 
 
 <!--
